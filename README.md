@@ -1,4 +1,3 @@
-Olá Mãe!
 ### Meu nome é Ricardo, sou profissional de marketing digital e estudante de programação
 
 Durante o dia eu trabalho em uma agência de marketing digital e à noite eu me dedico aos estudos. Essas são as tecnologias que eu tenho conhecimento e/ou estou aprendendo:
